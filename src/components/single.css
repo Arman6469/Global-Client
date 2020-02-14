@@ -1,0 +1,123 @@
+
+  .single-head {
+    background-color: beige;
+    display: flex;
+    justify-content: space-between;
+  }
+  .vernagir {
+    color: orange;
+  }
+  .entavernagir {
+    color: rgba(128, 128, 128, 0.555);
+  }
+  .sign-button {
+    background-color: rgb(255, 133, 32);
+    border-radius: 40px;
+    width: 135px;
+    height: 45px;
+    font-size: 25px;
+    color: beige;
+  }
+  .title{
+      margin-left: 60px;
+      margin-top: 50px;
+  }
+  .icon2{
+    margin-right: 60px;
+  }
+  .icon-image{
+      width: 250px;
+      
+  }
+  .info{
+      height: 63px;
+      background-color: rgba(109, 82, 226, 0.795);
+      display: flex;
+      justify-content: center;
+  }
+  .workshop{
+    display:flex;
+    justify-content: space-around;
+  }
+  .info-text{
+      color: white;
+  }
+  .workshop-div{
+    width: 500px;
+    margin-left: 60px;
+  }
+  
+  .gif{
+    width: 600px;
+    margin-top: 70px;
+  }
+  .workshop-title{
+   
+   margin-top: 70px;
+  }
+  
+  .footer{
+    display: flex;
+    justify-content: space-between;
+  }
+  .kapudas{
+  display: flex;
+  margin-top: 70px;
+  }
+  .kap{
+    margin-left: 20px;
+    margin-right: 7px;
+  }
+  .footer-link{
+    text-decoration: none;
+    color: moccasin;
+  }
+  .footer-link:hover{
+    text-decoration: none;
+    color: white;
+  }
+  .icon {
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+  }
+  .icons {
+    margin-top: 350px;
+    width: 50px;
+    margin-left: 20px;
+  }
+  .workshop-steps{
+    margin-left: 40px;
+  }
+  .step{
+    padding: 20px;
+    width: 400px;
+    border:1px solid rgb(133, 130, 130);
+  }
+  .step:hover{
+    background-color:rgba(108, 82, 226, 0.356) ;
+    transition: 0.7s;
+  }
+  .workshop-timeline{
+    display: flex;
+    justify-content: space-between;
+  }
+  .workhop-subtitle{
+    margin-top: 60px;
+  }
+  .w_image{
+    margin-top: 70px;
+    width: 600px;
+    margin-right: 40px;
+    margin-bottom: 80px;
+  }
+  .w_aboutdiv{
+    display: block;
+  }
+  #css{
+    display: none;
+  }
+  #css3{
+    display:none;
+  }
