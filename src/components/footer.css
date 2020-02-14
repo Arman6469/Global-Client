@@ -1,0 +1,22 @@
+.main_div{
+    background-image: url(../images/footer_bg.png);
+    height: 500px;
+    display: flex;
+    justify-content: space-between;
+}
+.logo_div{
+    width: 400px;
+    padding-top: 80px;
+}
+.logo_description{
+    color: aliceblue;
+    margin: 0 auto;
+    text-align: center;
+    max-width: 350px;
+    margin-top: 30px;
+}
+.logo{
+    margin-top: 30px;
+    margin: 0 auto;
+    display: flex;
+}

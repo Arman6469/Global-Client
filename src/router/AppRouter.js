@@ -5,6 +5,7 @@ import Content from "../components/Content.js";
 import Progsinglepage from "../components/Progsinglepage.js";
 import Websinglepage from "../components/Websinglepage.js";
 import Mediasinglepage from "../components/Mediasinglepage.js";
+import Footer from "../components/Footer.js"
 
 export default function AppRouter() {
   return (
@@ -17,6 +18,7 @@ export default function AppRouter() {
         <Route path='/web/:id' component={Websinglepage}></Route>
         <Route path='/media/:id' component={Mediasinglepage}></Route>
       </Switch>
+      <Footer />
     </BrowserRouter>
   );
 }
